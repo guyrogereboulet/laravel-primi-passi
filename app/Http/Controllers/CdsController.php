@@ -60,6 +60,7 @@ class CdsController extends Controller
 
      ];
        return view('home', compact('database'));
+
     }
 
 }
